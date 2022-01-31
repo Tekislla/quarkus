@@ -1,1 +1,2 @@
-# quarkus
+# Quarkus
+Quarkus demo API
